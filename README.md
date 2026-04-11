@@ -31,5 +31,18 @@ If you want to clone this repository and run the pipeline on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/job-market-etl-pipeline.git](https://github.com/your-username/job-market-etl-pipeline.git)
+   git clone [https://github.com/mazen-gebrel/job-market-etl-pipeline.git](https://github.com/mazen-gebrel/job-market-etl-pipeline.git)
    cd job-market-etl-pipeline
+2. **Install dependencies:**
+   ```bash
+   pip install requests pandas sqlalchemy
+   
+3. **Execute the pipeline:**
+
+   ```bash
+   python extract.py
+   python transform.py
+   python load.py
+
+4. **Analyze the data:**
+Connect to data/jobs.db using DBeaver, DB Browser for SQLite, or Python to start running SQL aggregations on the job_market_trends table.
