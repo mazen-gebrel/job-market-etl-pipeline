@@ -1,4 +1,43 @@
 title,company,location,published_date,requires_python,requires_sql,requires_aws,requires_azure,requires_spark,requires_tableau
+Data Engineering Manager,Inspira Financial,USA,2026-05-01T17:51:51+00:00,True,True,False,True,False,True
+Sr Staff Quantitative User Researcher,Mozilla,Canada,2026-04-29T09:33:44+00:00,False,True,False,False,False,False
+Staff Quantitative User Researcher,Mozilla,Canada,2026-04-29T09:33:43+00:00,False,True,False,False,False,False
+Senior Network Modeling & Strategy Planner,Lumen Technologies,USA,2026-04-29T09:33:38+00:00,False,True,False,False,False,False
+Lead Network Modeling & Strategy Planner,Lumen Technologies,USA,2026-04-29T09:33:34+00:00,False,True,False,False,False,False
+"Director, Product Analytics",Chime,USA,2026-04-28T12:38:12+00:00,False,True,False,False,False,False
+Freelance Polish Data Annotation Specialist (100% Remote within Poland),Docplanner,Poland,2026-04-28T04:14:40+00:00,False,False,False,False,False,False
+Manager/ Sr. Manager – BI Consulting (Life Sciences/Pharma),Tiger Analytics,Canada,2026-04-27T14:14:32+00:00,True,True,False,False,False,False
+Senior Data Analyst,Salesloft,Mexico,2026-04-25T16:44:35+00:00,True,True,False,False,False,True
+Senior Data Engineer,Salesloft,Mexico,2026-04-25T16:44:33+00:00,False,True,True,False,False,False
+Staff Data Engineer,Boulevard,USA,2026-04-24T15:07:49+00:00,True,True,False,False,False,False
+Machine Learning Engineer,Twilio,USA,2026-04-24T15:07:42+00:00,True,True,True,True,True,False
+Senior Data Engineer,Boulevard,USA,2026-04-24T15:07:41+00:00,True,True,False,False,False,False
+Senior Data Scientist,Clover Health,USA,2026-04-24T15:07:37+00:00,True,True,False,False,False,False
+Calibration Standard Analyst,ManTech,USA,2026-04-24T15:07:30+00:00,False,False,False,False,False,False
+"Director, Data Science",Infor,USA,2026-04-24T15:07:27+00:00,True,False,True,False,True,False
+People Analytics Analyst | United Kingdom | Remote,Grafana Labs,UK,2026-04-24T07:17:44+00:00,False,True,False,False,False,True
+People Analytics Analyst | Ireland | Remote,Grafana Labs,Ireland,2026-04-24T07:17:42+00:00,False,True,False,False,False,True
+People Analytics Analyst | Sweden | Remote,Grafana Labs,Sweden,2026-04-24T07:17:41+00:00,False,True,False,False,False,True
+People Analytics Analyst | Germany | Remote,Grafana Labs,Germany,2026-04-24T07:17:39+00:00,False,True,False,False,False,True
+People Analytics Analyst | Spain | Remote,Grafana Labs,Spain,2026-04-24T07:17:38+00:00,False,True,False,False,False,True
+Data Team Leader,NECSWS,UK,2026-04-23T02:34:12+00:00,False,True,False,True,False,False
+Media Search Analyst – German speaker | Germany,TELUS International,Germany,2026-04-23T02:34:06+00:00,False,False,False,False,False,False
+Online Data Analyst – Dutch speaker | Netherlands,TELUS International,Netherlands,2026-04-23T02:34:04+00:00,False,False,False,False,False,False
+Personalized Internet Ads Assessor – German speaker | Poland,TELUS International,Poland,2026-04-23T02:34:02+00:00,False,False,False,False,False,False
+Online Data Analyst – Latvian speaker | Latvia,TELUS International,Latvia,2026-04-23T02:34:01+00:00,False,False,False,False,False,False
+Data Engineering Manager,Claritev,USA,2026-04-22T01:55:44+00:00,True,True,False,False,True,False
+Mathematics & Python Expert – Freelance AI Trainer,Mindrift,USA,2026-04-21T04:00:36+00:00,True,True,False,False,False,False
+Senior Data Engineer (St. Louis),World Wide Technology,USA,2026-04-21T04:00:27+00:00,True,True,False,True,False,True
+Data Engineering Analyst Lead/Scientist,Experian,USA,2026-04-21T04:00:17+00:00,True,True,True,False,False,True
+Computer Science Expert with Python Experience – AI Projects on Mindrift,Mindrift,UK,2026-04-17T16:55:30+00:00,True,True,False,False,False,False
+Sr. Databricks Consultant,ECS,USA,2026-04-17T16:50:42+00:00,True,True,True,True,True,False
+"Data Scientist, Analytics (Technical Leadership)",Meta,USA,2026-04-15T11:44:12+00:00,True,True,False,False,False,False
+"Data Science Leader, Analytics",Meta,USA,2026-04-15T11:44:11+00:00,False,False,False,False,False,False
+Data Scientist,ECS,USA,2026-04-14T04:44:45+00:00,True,False,False,False,False,False
+Digital Analyst,World Wide Technology,USA,2026-04-14T04:44:34+00:00,False,False,False,False,False,True
+Senior Data Engineer (SQL),Experian,Costa Rica,2026-04-14T04:44:28+00:00,False,True,False,False,False,False
+Senior Data Engineer (Cloud & Analytics),Experian,Costa Rica,2026-04-14T04:44:26+00:00,False,False,True,False,False,True
+"Senior Director, AI Systems",Revecore,USA,2026-04-12T12:09:24+00:00,False,False,False,False,False,False
 Data Engineer (Analytics),Meta,USA,2026-04-10T17:42:45+00:00,True,True,False,False,False,False
 Lead Applied Scientist,Claritev,USA,2026-04-10T17:42:29+00:00,True,False,False,False,False,False
 Data Engineer,Claritev,USA,2026-04-09T17:06:24+00:00,True,True,False,True,True,False
@@ -6,32 +45,5 @@ Chemistry & Python Expert – Freelance AI Trainer,Mindrift,Romania,2026-04-08T0
 "Senior Manager, Data Science and Machine Learning",Toast,USA,2026-04-07T14:01:33+00:00,False,False,False,False,False,False
 Content Services Research Analyst,Q4 Inc.,"Canada,  Mexico",2026-04-07T14:01:26+00:00,False,False,False,False,False,False
 "Manager, DashMart – Supply Chain Strategy & Analytics",DoorDash,USA,2026-04-07T14:01:15+00:00,False,True,False,False,False,False
-"Applied Scientist, Customer Growth",Thumbtack,USA,2026-04-04T17:36:06+00:00,True,False,False,False,False,False
 Senior Biostatistician,Everest Clinical Research,UK,2026-04-02T10:00:05+00:00,False,False,False,False,False,False
 Senior Staff Software Engineer – Data Lakes,Fivetran,"EMEA,  Germany",2026-04-02T09:59:42+00:00,False,False,True,True,False,False
-Freelance Data Science Engineer (Python & SQL),Mindrift,Spain,2026-04-01T04:32:09+00:00,True,True,False,False,False,False
-Data Scientist (Python & SQL) – Freelance AI Trainer,Mindrift,Germany,2026-04-01T04:32:07+00:00,True,True,False,False,False,False
-Machine Learning Developer (Freelance),Mindrift,Romania,2026-04-01T04:32:06+00:00,True,True,False,False,False,False
-Financial Mathematics (Python) – Freelance AI Trainer,Mindrift,Spain,2026-04-01T04:32:04+00:00,True,True,False,False,False,False
-Senior Analytics Engineer,Consensys,"EMEA,  LATAM,  Canada,  USA",2026-04-01T04:31:48+00:00,True,True,False,False,False,True
-"Research Scientist Intern (AI/ML Research – Fraud, Authentication, Speech, and Video)",Pindrop,USA,2026-03-31T13:24:01+00:00,True,False,False,False,False,False
-Data Science Manager,Meta,USA,2026-03-31T13:23:55+00:00,False,True,False,False,False,False
-Physics Expert with Python – Freelance AI Trainer,Mindrift,Portugal,2026-03-29T08:02:45+00:00,True,True,False,False,False,False
-Data Scientist,Meta,USA,2026-03-27T18:09:43+00:00,False,False,False,False,False,False
-"Data Engineer, Analytics",Meta,USA,2026-03-27T18:09:42+00:00,True,True,False,False,False,False
-Principal Applied Scientist,Claritev,USA,2026-03-27T18:09:37+00:00,True,True,False,False,False,False
-Enterprise AI Engineering Architect,Claritev,USA,2026-03-27T18:09:36+00:00,True,False,False,True,False,False
-Senior MLOps/AI Engineer,Claritev,USA,2026-03-27T18:09:31+00:00,True,False,False,False,False,False
-"Lead Consultant, Data Governance",phData,USA,2026-03-25T14:09:18+00:00,False,False,True,True,False,False
-"Data Scientist, Product",Meta,USA,2026-03-25T14:09:03+00:00,True,True,False,False,False,False
-Data Engineer,Meta,USA,2026-03-25T14:09:02+00:00,False,True,False,False,False,False
-Sr. BI engineer,Cint,UK,2026-03-23T07:24:06+00:00,False,True,False,False,False,True
-"Manager, Data Engineering",Revecore,USA,2026-03-20T16:29:04+00:00,True,True,True,True,True,False
-Software Engineer (Technical Leadership) – Machine Learning,Meta,USA,2026-03-19T03:25:59+00:00,False,False,False,False,False,False
-Senior Data Analyst – Sales,Sleek,Singapore,2026-03-19T03:24:13+00:00,False,True,False,False,False,True
-Data Engineer (remote in Spain),"QAD, Inc.",Spain,2026-03-18T06:03:02+00:00,True,True,True,False,False,False
-Software Engineer – Data Engineering,Catawiki,Portugal,2026-03-18T06:02:29+00:00,True,True,False,False,False,False
-Data Integrity Advocate I,Claritev,USA,2026-03-15T17:59:47+00:00,False,False,False,False,False,False
-Senior Data Engineer,Veriff,"Estonia,  Spain",2026-03-15T17:59:01+00:00,True,True,True,False,True,False
-Senior Business Analyst (SAP),Remote,Europe,2026-03-13T07:21:59+00:00,False,False,False,False,False,False
-Staff Engineer – Data & Insights Engineer,RWS Group,Romania,2026-03-11T11:10:11+00:00,True,False,False,False,False,True
