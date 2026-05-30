@@ -1,16 +1,26 @@
 title,company,location,published_date,requires_python,requires_sql,requires_aws,requires_azure,requires_spark,requires_tableau
+Strategy Consultant – AI Training & Evaluation (MBB & Top-Tier Firms),Mindrift,Spain,2026-05-29T15:01:17+00:00,False,False,False,False,False,False
+Senior Data Analytics Engineer – Hospitality Tech | Mexico,Truelogic,Mexico,2026-05-28T12:06:05+00:00,True,True,False,False,False,False
+Quantum Research Scientist with Python – Freelance AI Trainer,Mindrift,Romania,2026-05-28T11:46:19+00:00,True,True,False,False,False,False
+Physics Expert with Python – Freelance AI Trainer,Mindrift,France,2026-05-28T11:46:05+00:00,True,True,False,False,False,False
+Senior Analytics Engineer,Reddit,Canada,2026-05-27T11:47:32+00:00,True,True,False,False,True,True
+Analytics Engineer,Reddit,Canada,2026-05-27T11:47:30+00:00,True,True,False,False,True,False
+Senior Research Scientist – Neuroscience,Arvinas,USA,2026-05-26T14:56:29+00:00,True,False,False,False,False,False
+Senior Data Scientist,Customer.io,"LATAM,  Canada,  USA",2026-05-26T14:56:02+00:00,True,True,False,False,False,False
+Part-time Online Data Analyst – Dutch (NL),TELUS International,Netherlands,2026-05-26T14:43:08+00:00,False,False,False,False,False,False
+Senior Machine Learning Scientist (USA Remote),"Turnitin, LLC",USA,2026-05-26T00:11:44+00:00,True,True,True,False,False,False
+Lead Insurance Pricing Analyst,Monzo,UK,2026-05-24T12:42:36+00:00,True,True,False,False,False,False
+AI/ML Engineering,Cint,Czechia,2026-05-24T12:42:27+00:00,True,True,True,False,False,False
+Journeyman Data Scientist,ManTech,USA,2026-05-23T16:22:29+00:00,True,True,False,False,True,True
 Sr. Intelligence Analyst II,CrowdStrike,Ireland,2026-05-22T10:56:57+00:00,False,False,False,False,False,False
 AI Product Analyst – Automation team,MEDvidi,Serbia,2026-05-22T02:00:16+00:00,True,True,False,False,False,False
 Senior Data Engineer,Experian,Costa Rica,2026-05-22T01:53:04+00:00,True,True,True,False,False,False
-Senior Data Analyst – Travel Entertainment,Truelogic,LATAM,2026-05-18T10:44:50+00:00,True,True,True,False,False,True
-Senior Data Analyst – Travel Entertainment (Brazil),Truelogic,Brazil,2026-05-18T10:44:49+00:00,True,True,True,False,False,True
 Senior Data Engineer,Plain Concepts,Spain,2026-05-18T10:38:11+00:00,True,True,True,True,True,False
 Senior Data Scientist – Product Insights,Catawiki,Netherlands,2026-05-18T10:38:04+00:00,True,True,False,False,False,True
 "Senior Manager, Analytics Strategy & Operations (Contractor)",Fortis Games,Portugal,2026-05-17T16:49:22+00:00,False,True,False,False,False,False
 Senior Data Analyst,Ruby Labs,Serbia,2026-05-15T12:25:29+00:00,True,True,False,False,False,True
 Senior People Technology Analyst – Workday,Samsara,UK,2026-05-15T12:25:26+00:00,False,False,False,False,False,False
 Sr Director Analyst – AI Data Security and Data Management; Emerging Technology and Trends,Gartner,UK,2026-05-15T12:25:18+00:00,False,False,False,False,False,False
-Senior Data Analytics Engineer – Hospitality Tech (DR),Truelogic,USA,2026-05-14T16:39:03+00:00,False,True,False,False,False,False
 "Senior Manager, GTM Analytics & Planning",Remote,"Canada,  USA",2026-05-13T17:33:21+00:00,True,True,False,False,False,True
 Power BI Architect,Tiger Analytics,USA,2026-05-11T14:06:14+00:00,False,True,False,True,False,False
 Data Analyst,NielsenIQ,Bulgaria,2026-05-11T13:08:35+00:00,True,True,False,False,False,True
@@ -25,20 +35,3 @@ Healthcare Analytics Advisor,Claritev,USA,2026-05-03T12:02:15+00:00,True,True,Fa
 Provider Analytics Consultant,Claritev,USA,2026-05-03T12:02:11+00:00,True,True,False,False,False,False
 Defensive Security AI Scientist,World Wide Technology,USA,2026-05-03T12:02:09+00:00,True,False,False,False,False,False
 Data Engineering Manager,Inspira Financial,USA,2026-05-01T17:51:51+00:00,True,True,False,True,False,True
-Sr Staff Quantitative User Researcher,Mozilla,Canada,2026-04-29T09:33:44+00:00,False,True,False,False,False,False
-Staff Quantitative User Researcher,Mozilla,Canada,2026-04-29T09:33:43+00:00,False,True,False,False,False,False
-Senior Network Modeling & Strategy Planner,Lumen Technologies,USA,2026-04-29T09:33:38+00:00,False,True,False,False,False,False
-Lead Network Modeling & Strategy Planner,Lumen Technologies,USA,2026-04-29T09:33:34+00:00,False,True,False,False,False,False
-"Director, Product Analytics",Chime,USA,2026-04-28T12:38:12+00:00,False,True,False,False,False,False
-Manager/ Sr. Manager – BI Consulting (Life Sciences/Pharma),Tiger Analytics,Canada,2026-04-27T14:14:32+00:00,True,True,False,False,False,False
-Senior Data Analyst,Salesloft,Mexico,2026-04-25T16:44:35+00:00,True,True,False,False,False,True
-Senior Data Engineer,Salesloft,Mexico,2026-04-25T16:44:33+00:00,False,True,True,False,False,False
-Staff Data Engineer,Boulevard,USA,2026-04-24T15:07:49+00:00,True,True,False,False,False,False
-Machine Learning Engineer,Twilio,USA,2026-04-24T15:07:42+00:00,True,True,True,True,True,False
-Senior Data Engineer,Boulevard,USA,2026-04-24T15:07:41+00:00,True,True,False,False,False,False
-Senior Data Scientist,Clover Health,USA,2026-04-24T15:07:37+00:00,True,True,False,False,False,False
-People Analytics Analyst | United Kingdom | Remote,Grafana Labs,UK,2026-04-24T07:17:44+00:00,False,True,False,False,False,True
-People Analytics Analyst | Ireland | Remote,Grafana Labs,Ireland,2026-04-24T07:17:42+00:00,False,True,False,False,False,True
-People Analytics Analyst | Sweden | Remote,Grafana Labs,Sweden,2026-04-24T07:17:41+00:00,False,True,False,False,False,True
-People Analytics Analyst | Germany | Remote,Grafana Labs,Germany,2026-04-24T07:17:39+00:00,False,True,False,False,False,True
-People Analytics Analyst | Spain | Remote,Grafana Labs,Spain,2026-04-24T07:17:38+00:00,False,True,False,False,False,True
