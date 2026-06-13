@@ -1,4 +1,27 @@
 title,company,location,published_date,requires_python,requires_sql,requires_aws,requires_azure,requires_spark,requires_tableau
+Customer Insight Analyst,Monzo,UK,2026-06-12T16:50:03+00:00,False,False,False,False,False,False
+"Senior Analyst, Data Analytics and Business Intelligence",GXO Logistics,USA,2026-06-12T16:44:54+00:00,True,True,False,False,False,False
+Senior Data Scientist – Real Estate,Truelogic,LATAM,2026-06-12T16:30:09+00:00,True,True,False,False,False,False
+Sr. Machine Learning Solutions Architect,phData,LATAM,2026-06-12T16:29:52+00:00,True,True,True,True,True,False
+Senior/Lead Data Engineer – AI-Native Aftermarket Platform,Truelogic,LATAM,2026-06-12T16:29:37+00:00,True,True,False,True,True,False
+Senior Analytics Engineer (ETL/ELT focused) – Design Marketplace,Truelogic,LATAM,2026-06-12T16:29:29+00:00,False,True,False,False,False,False
+Analytics Engineer – Digital Media,Truelogic,LATAM,2026-06-12T16:29:22+00:00,True,True,True,False,False,True
+Senior Data Engineer,phData,LATAM,2026-06-12T16:29:06+00:00,True,True,True,True,True,False
+Senior Data Engineer – Enterprise B2B Marketplace,Truelogic,LATAM,2026-06-12T16:29:04+00:00,True,True,True,False,False,False
+Analytics Specialist,IKEA,Australia,2026-06-12T16:23:52+00:00,False,False,False,False,False,False
+Sr. Data & AI Engineer,ECS,USA,2026-06-12T16:23:42+00:00,False,False,True,True,False,False
+Data Quality Specialist,University of Colorado,USA,2026-06-11T14:11:26+00:00,False,False,False,False,False,False
+Head of Data Science,Function Health,"Canada,  USA",2026-06-10T18:07:03+00:00,False,True,False,False,False,False
+"Data Intern, Enterprise Analytics – Fall 2026",1Password,"Canada,  USA",2026-06-10T18:06:56+00:00,True,True,False,False,False,True
+"Senior Machine Learning Engineer, AI Platform",Mozilla,Canada,2026-06-10T18:06:53+00:00,True,False,False,False,False,False
+Material Scientist with Python – Freelance AI Trainer,Mindrift,Canada,2026-06-10T18:06:22+00:00,True,True,False,False,False,False
+Data Scientist,Cint,UK,2026-06-10T05:43:09+00:00,True,True,False,False,True,False
+Lead Machine Learning Engineer,Thoughtworks,Canada,2026-06-10T05:32:14+00:00,True,False,True,True,False,False
+"Senior Manager, Control Process Automation & Data",Monzo,UK,2026-06-09T10:52:57+00:00,False,False,False,False,False,False
+"Project Director, Qualitative Research",M3 USA,UK,2026-06-09T10:52:55+00:00,False,False,False,False,False,False
+Senior Data Scientist,Rundoo,USA,2026-06-09T10:29:31+00:00,True,False,False,False,False,False
+Civil Engineer & Python Expert – Freelance AI Trainer,Mindrift,UK,2026-06-08T15:22:16+00:00,True,False,False,False,False,False
+Mathematics & Python Expert – Freelance AI Trainer,Mindrift,Germany,2026-06-08T15:22:10+00:00,True,False,False,False,False,False
 "Principal, Marketing Analytics",Remote,USA,2026-06-05T18:19:48+00:00,False,False,False,False,False,True
 AI Expert,ECS,USA,2026-06-05T18:19:34+00:00,True,False,True,False,False,False
 AI Researcher,Toptal,"Europe,  Philippines",2026-06-05T08:39:34+00:00,True,False,False,False,False,False
@@ -10,15 +33,11 @@ Data Scientist (Python & SQL) – Freelance AI Trainer,Mindrift,Romania,2026-06-
 Master Thesis in Continual Learning with Agentic Memories,Bosch Group,Germany,2026-06-01T12:52:53+00:00,True,False,False,False,True,False
 Senior Product Scientist (Marketing Intelligence),Headspace,USA,2026-05-30T15:57:42+00:00,False,False,False,False,False,False
 Research Scientist / Data Manager and Analyst,University of Colorado,USA,2026-05-30T15:57:15+00:00,False,True,False,False,False,False
-Research Physicist – Freelance AI Trainer,Mindrift,Italy,2026-05-30T15:48:31+00:00,False,False,False,False,False,False
 Strategy Consultant – AI Training & Evaluation (MBB & Top-Tier Firms),Mindrift,Spain,2026-05-29T15:01:17+00:00,False,False,False,False,False,False
-Quantum Research Scientist with Python – Freelance AI Trainer,Mindrift,Romania,2026-05-28T11:46:19+00:00,True,True,False,False,False,False
-Physics Expert with Python – Freelance AI Trainer,Mindrift,France,2026-05-28T11:46:05+00:00,True,True,False,False,False,False
 Senior Analytics Engineer,Reddit,Canada,2026-05-27T11:47:32+00:00,True,True,False,False,True,True
 Analytics Engineer,Reddit,Canada,2026-05-27T11:47:30+00:00,True,True,False,False,True,False
 Senior Research Scientist – Neuroscience,Arvinas,USA,2026-05-26T14:56:29+00:00,True,False,False,False,False,False
 Senior Data Scientist,Customer.io,"LATAM,  Canada,  USA",2026-05-26T14:56:02+00:00,True,True,False,False,False,False
-Part-time Online Data Analyst – Dutch (NL),TELUS International,Netherlands,2026-05-26T14:43:08+00:00,False,False,False,False,False,False
 Senior Machine Learning Scientist (USA Remote),"Turnitin, LLC",USA,2026-05-26T00:11:44+00:00,True,True,True,False,False,False
 Lead Insurance Pricing Analyst,Monzo,UK,2026-05-24T12:42:36+00:00,True,True,False,False,False,False
 AI/ML Engineering,Cint,Czechia,2026-05-24T12:42:27+00:00,True,True,True,False,False,False
@@ -30,12 +49,3 @@ Senior Data Engineer,Plain Concepts,Spain,2026-05-18T10:38:11+00:00,True,True,Tr
 Senior Data Scientist – Product Insights,Catawiki,Netherlands,2026-05-18T10:38:04+00:00,True,True,False,False,False,True
 "Senior Manager, Analytics Strategy & Operations (Contractor)",Fortis Games,Portugal,2026-05-17T16:49:22+00:00,False,True,False,False,False,False
 Senior Data Analyst,Ruby Labs,Serbia,2026-05-15T12:25:29+00:00,True,True,False,False,False,True
-Senior People Technology Analyst – Workday,Samsara,UK,2026-05-15T12:25:26+00:00,False,False,False,False,False,False
-Sr Director Analyst – AI Data Security and Data Management; Emerging Technology and Trends,Gartner,UK,2026-05-15T12:25:18+00:00,False,False,False,False,False,False
-"Senior Manager, GTM Analytics & Planning",Remote,"Canada,  USA",2026-05-13T17:33:21+00:00,True,True,False,False,False,True
-Power BI Architect,Tiger Analytics,USA,2026-05-11T14:06:14+00:00,False,True,False,True,False,False
-Senior Applied AI Scientist,Claritev,USA,2026-05-09T03:47:50+00:00,True,False,False,False,False,False
-Senior Analyst,ECS,USA,2026-05-09T03:47:47+00:00,False,False,False,False,False,False
-RCMP – Remote Analytics Specialist,IKEA,Belgium,2026-05-08T16:57:56+00:00,False,False,False,False,False,False
-Senior Customer and Industry Insights Analyst,Boulevard,USA,2026-05-08T16:29:13+00:00,True,True,False,False,False,True
-Data Operations Analyst,Infotree Global Solutions,Poland,2026-05-08T04:47:38+00:00,False,False,False,False,False,False
