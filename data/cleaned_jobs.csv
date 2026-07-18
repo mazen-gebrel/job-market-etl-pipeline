@@ -1,29 +1,38 @@
 title,company,location,published_date,requires_python,requires_sql,requires_aws,requires_azure,requires_spark,requires_tableau
+"Assistant Director, Data Science: Renter's Portfolio",Liberty Mutual,USA,2026-07-18T03:30:04+00:00,False,False,False,False,False,False
+Customer and Sector Insights Lead: Mining,Spirax Group,EMEA,2026-07-18T02:15:05+00:00,False,False,False,False,False,False
+"Director, Data Science: Data Science Tools",Liberty Mutual,USA,2026-07-17T09:35:11+00:00,True,False,False,False,False,False
+Lead Data Scientist,Fieldguide,USA,2026-07-17T02:25:02+00:00,True,True,False,False,False,True
+"Senior Data Scientist, Innovation Lab",Experian,USA,2026-07-17T02:24:56+00:00,False,False,False,False,False,False
+Senior Data Engineer - Enterprise B2B Marketplace,Truelogic,LATAM,2026-07-15T20:10:05+00:00,True,True,True,False,False,False
+"AI Vendor Market Expert (Senior Director, Analyst – Fully Remote United States)",Gartner,USA,2026-07-15T19:05:05+00:00,False,False,False,False,False,False
+Senior Data Scientist,Rundoo,USA,2026-07-14T14:55:06+00:00,True,False,False,False,False,False
+Sr. Machine Learning Solutions Architect,phData,LATAM,2026-07-14T11:50:07+00:00,True,True,True,True,True,False
+IT Software Asset Management Analyst,DoorDash,USA,2026-07-14T11:05:07+00:00,False,False,False,False,False,False
+"Senior Machine Learning Engineer, Ads Content Understanding",Reddit,USA,2026-07-14T10:37:28+00:00,True,False,False,False,False,False
+Senior Statistician,Worldwide Clinical Trials,"UK,  USA",2026-07-13T14:26:29+00:00,False,False,False,False,False,False
+"Principal, Marketing Analytics",Remote,USA,2026-07-12T13:30:05+00:00,False,False,False,False,False,True
+Video Collection (LATAM) - Freelance AI Trainer Project,Invisible Technologies,LATAM,2026-07-12T03:11:26+00:00,False,False,False,False,False,False
 "Project Director, Qualitative Research",M3 USA,UK,2026-07-10T19:55:04+00:00,False,False,False,False,False,False
 Data Analytics Senior Consultant I,Allstate,USA,2026-07-10T13:40:02+00:00,True,True,False,False,False,False
 Machine Learning Engineer,Skylum,"Europe,  Ukraine",2026-07-09T11:50:19+00:00,True,False,False,False,False,False
 Costpoint Cognos Report Writer and General Ledger Business Analyst,ManTech,USA,2026-07-08T20:22:36+00:00,False,True,False,False,False,False
-Principal AI Data Analyst,UnitedHealth Group,USA,2026-07-07T03:32:10+00:00,True,True,True,True,False,False
 Data Analyst,YipitData,USA,2026-07-04T11:05:04+00:00,True,True,False,False,False,False
 Senior Staff Data Scientist - Consumer Relevance,Reddit,USA,2026-07-04T11:05:03+00:00,True,True,False,False,False,False
 "Senior Marketing Analyst, Strategy & Analytics",Toptal,"Canada,  Europe,  UK,  USA",2026-07-04T07:20:48+00:00,True,True,False,False,False,True
 Senior AI Data Engineer,Scorpion,USA,2026-07-03T10:26:45+00:00,True,True,False,True,True,False
-Researcher - Part-time (Entry Level),IMPACT Group,USA,2026-07-03T02:53:43+00:00,False,False,False,False,False,False
 "Projets de collecte de données/d'enregistrement | Français & Anglais | Remote, Part Time, Work from Home",RWS Group,France,2026-07-02T07:52:31+00:00,False,False,False,False,False,False
 Military Advisor- Sentiment Analysis (Part Time/Remote) (Mission Assurance 4)- 29181,HII,USA,2026-07-02T07:46:48+00:00,True,True,True,True,True,True
 Lead Machine Learning Engineer,Thoughtworks,Canada,2026-07-02T04:11:42+00:00,True,False,True,True,False,False
 "Director I, Data Science, Enterprise Data & Data Science",Liberty Mutual,USA,2026-07-02T04:07:45+00:00,False,False,False,False,False,False
 BI Consultant,NielsenIQ,USA,2026-07-02T04:07:31+00:00,False,False,False,False,False,True
-Senior Product Scientist (Marketing Intelligence),Headspace,USA,2026-07-01T10:51:42+00:00,False,False,False,False,False,False
 "Quant Risk Analyst, Derivatives (EU timezone)",Binance,Europe,2026-07-01T06:30:54+00:00,False,False,False,False,False,False
 Senior Data Engineer,Zartis,Europe,2026-07-01T06:30:50+00:00,True,True,False,True,False,False
 "Director I, Data Science Product Management",Liberty Mutual,USA,2026-07-01T02:13:31+00:00,False,False,True,True,False,False
 Principal ML Engineer,Cloudbeds,Europe,2026-06-29T12:11:54+00:00,True,True,True,False,False,False
-Senior Machine Learning Scientist (USA Remote),"Turnitin, LLC",USA,2026-06-28T19:51:42+00:00,True,True,True,False,False,False
 Senior Data Scientist,Customer.io,"LATAM,  Canada,  USA",2026-06-28T19:26:44+00:00,True,True,False,False,False,False
 Research Scientist II,Pindrop,USA,2026-06-28T12:46:35+00:00,True,False,False,False,False,False
 "Data Scientist, Analytics (Technical Leadership)",Meta,USA,2026-06-27T20:21:44+00:00,True,True,False,False,False,False
-Machine Learning Engineer,Twilio,USA,2026-06-27T10:36:42+00:00,True,True,True,True,True,False
 "Senior Data Analyst, Business Intelligence",StackAdapt,"Canada,  USA",2026-06-26T06:28:44+00:00,False,True,False,False,False,True
 "Principal Analyst, Data Integration",H1,USA,2026-06-26T06:27:54+00:00,False,True,True,False,False,False
 "Staff Data Scientist, Ads Delivery",Pinterest,USA,2026-06-26T06:27:52+00:00,True,True,False,False,True,False
@@ -35,17 +44,8 @@ Manager/ Sr. Manager - BI Consulting (Life Sciences/Pharma),Tiger Analytics,Cana
 "Senior Data Scientist, RC Capital",RevenueCat,"LATAM,  Canada,  USA",2026-06-25T10:26:43+00:00,True,True,False,False,False,False
 Power BI Architect,Tiger Analytics,USA,2026-06-25T08:11:42+00:00,False,True,False,True,False,False
 Korean Speech Recognition Trainer,Hire Feed,South Korea,2026-06-25T06:05:38+00:00,False,False,False,False,False,False
-AI/ML Engineering,Cint,Czechia,2026-06-25T04:41:43+00:00,True,True,True,False,False,False
 Lead Insurance Pricing Analyst,Monzo,UK,2026-06-25T04:36:47+00:00,True,True,False,False,False,False
 "Analyst, GTM Customer Intelligence",Apollo.io,USA,2026-06-24T08:39:38+00:00,False,True,False,False,False,True
 Data Services Analyst,Cloudbeds,LATAM,2026-06-24T08:35:16+00:00,False,False,False,False,False,False
 "Analyst, Health Plan Risk & Quality Reporting (Remote in FL)",Molina Healthcare,USA,2026-06-23T19:05:23+00:00,False,True,True,True,False,False
 "Director I, Data Science, People, Purpose & Brand",Liberty Mutual,USA,2026-06-23T19:05:09+00:00,True,True,False,False,False,False
-Ontology Architect,Tiger Analytics,USA,2026-06-23T06:18:59+00:00,False,False,False,False,False,False
-Applied Data Scientist / Machine Learning Engineer (Decision Intelligence),WorkWave,USA,2026-06-23T05:09:44+00:00,True,True,True,True,False,False
-Senior Data Engineer,Experian,Costa Rica,2026-06-23T02:56:45+00:00,True,True,True,False,False,False
-Sr. Intelligence Analyst II,CrowdStrike,"Ireland,  UK",2026-06-23T02:36:46+00:00,False,False,False,False,False,False
-AI Research Scientist (Europe/UK - Remote),SWORD Health,Europe,2026-06-22T13:21:33+00:00,True,False,False,False,False,False
-Senior Data Engineer,Plain Concepts,Spain,2026-06-19T08:41:43+00:00,True,True,True,True,True,False
-Senior People Technology Analyst - Workday,Samsara,UK,2026-06-18T21:21:42+00:00,False,False,False,False,False,False
-Senior Data Analyst,Ruby Labs,Serbia,2026-06-18T21:16:41+00:00,True,True,False,False,False,True
