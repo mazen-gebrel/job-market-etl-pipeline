@@ -1,50 +1,51 @@
 title,company,location,published_date,requires_python,requires_sql,requires_aws,requires_azure,requires_spark,requires_tableau
-"Data Director, EU",Monzo,"Spain,  UK",2026-10-17T08:33:07+00:00,False,False,False,False,False,False
-"Data Science Manager, Financial Crime",Monzo,UK,2026-10-17T08:33:06+00:00,True,True,False,False,False,False
-Data Science Manager,Monzo,UK,2026-10-17T08:33:06+00:00,True,True,False,False,False,False
-"Data Director, Payments",Monzo,UK,2026-10-17T08:33:06+00:00,False,False,False,False,False,False
-Circinus - Audio Contributor English Southern American (US),Welo Global,Anywhere,2026-10-17T04:05:15+00:00,False,False,False,False,False,False
-Analytics Platforms Architect,Tala,USA,2026-10-17T03:05:15+00:00,False,False,False,False,False,False
-Applied AI/ML Engineer,Oddball,USA,2026-10-17T02:58:05+00:00,True,True,False,False,True,False
-Data Science Intern (Customer Success),Cresta,USA,2026-10-17T02:53:53+00:00,True,True,True,True,True,True
-Analytics Engineer,Pleo,"Denmark,  Portugal,  Spain,  UK",2026-10-16T18:32:30+00:00,False,True,False,False,False,False
-"Marketing Analyst, Attribution - ShareGate",Workleap,Canada,2026-10-16T17:17:56+00:00,False,False,False,False,False,False
-Staff Research Engineer - Multimodal Generative Modelling,Synthesia,Europe,2026-10-16T13:31:03+00:00,False,False,False,False,False,False
-Sales Business Analyst,Cision,"Bulgaria,  Hungary",2026-10-16T13:31:01+00:00,False,False,False,False,False,False
-"Data Scientist, Product Analytics",Meta,USA,2026-10-16T02:45:18+00:00,True,True,False,False,False,False
-"Data Engineer, Product Analytics",Meta,USA,2026-10-16T02:45:16+00:00,True,True,False,False,False,False
-Senior Statistician,Worldwide Clinical Trials,"UK,  USA",2026-10-16T02:40:15+00:00,False,False,False,False,False,False
-Head of Data Science,Paddle,"Ireland,  Portugal,  UK",2026-10-15T16:45:45+00:00,True,True,False,False,False,False
-Senior Analytics Engineer,Paddle,"Ireland,  Portugal,  UK",2026-10-15T16:45:41+00:00,False,True,False,False,False,True
-"Staff Machine Learning Engineer, Ads Foundational Representations",Reddit,"Netherlands,  UK",2026-10-15T04:05:07+00:00,True,False,False,False,False,False
-"Analyst II, Full Stack (Revenue Analytics)",Affirm,Spain,2026-10-15T03:50:08+00:00,True,True,False,False,False,True
-Analytics Engineer II,Affirm,Poland,2026-10-15T03:45:16+00:00,True,True,False,False,False,False
-"Analytics Lead, Full Stack",Affirm,UK,2026-10-15T03:45:10+00:00,True,True,False,False,False,False
-Senior Game Mathematician,Playson,Europe,2026-10-15T02:50:12+00:00,False,False,False,False,False,False
-Data Engineer (Marketing Systems),Ruby Labs,Europe,2026-10-15T02:40:20+00:00,True,True,False,False,False,False
-Video Collection (LATAM) - Freelance AI Trainer Project,Invisible Technologies,LATAM,2026-10-15T02:40:15+00:00,False,False,False,False,False,False
-"Sr. Director, MaintainX AI",MaintainX,USA,2026-10-14T16:56:40+00:00,False,False,False,False,False,False
-"Senior Applied Data Scientist, Fleet Intelligence",Fleetio,"Canada,  Mexico,  USA",2026-10-14T16:56:39+00:00,True,True,False,False,False,False
-"Senior Data Scientist, Audio",Deepgram,USA,2026-10-14T04:48:39+00:00,True,False,False,False,False,False
-Business Intelligence Analyst,Carrot,USA,2026-10-14T02:27:19+00:00,False,True,False,False,False,True
-Data Analyst,RevenueCat,"EMEA,  LATAM,  Canada,  USA",2026-10-13T20:24:01+00:00,True,True,False,False,False,False
-"Sr. Analyst, Revenue Operations and Analytics",Zuora,USA,2026-10-13T20:08:25+00:00,False,False,False,False,False,False
-Research Scientist - Generative Audio,Spotify,EMEA,2026-10-13T11:55:02+00:00,True,False,False,False,False,False
-Research Scientist - Personalization,Spotify,UK,2026-10-13T11:54:59+00:00,False,False,False,False,False,False
-Senior Decision Scientist,Instructure,Mexico,2026-10-13T09:45:51+00:00,True,True,False,False,False,False
-Senior GTM Engineering Analyst,1Password,"Canada,  USA",2026-10-13T02:12:28+00:00,True,True,False,False,False,False
-"Manager, GTM Analytics",Zapier,"Canada,  USA",2026-10-13T02:05:03+00:00,False,True,False,False,False,False
-Product Analyst,Liftoff,USA,2026-10-13T02:05:01+00:00,True,True,False,False,False,True
-Lead BI Developer,Launch Potato,USA,2026-10-12T16:18:22+00:00,False,True,False,False,False,True
-Lead Analytics Manager,Launch Potato,USA,2026-10-12T16:18:19+00:00,False,True,False,False,False,True
-"Business Intelligence Lead, Performance Marketing",Launch Potato,USA,2026-10-12T16:18:18+00:00,False,True,False,False,False,True
-"Senior Data Engineer, Ads",Discord,USA,2026-10-12T13:37:23+00:00,True,True,False,False,True,True
-"Applied Scientist, Pro Growth",Thumbtack,Canada,2026-10-12T12:37:19+00:00,True,True,True,False,True,False
-Research Engineer,Elevenlabs,"Bulgaria,  Germany,  Poland,  UK,  USA",2026-10-12T02:50:04+00:00,False,False,False,False,False,False
-Senior Data Scientist,ExtraHop,USA,2026-10-12T02:40:07+00:00,True,True,True,False,False,False
-"EMEA Insights Lead, Consumer and Commercial Strategy",Reddit,Germany,2026-10-11T08:39:51+00:00,False,False,False,False,False,False
-Senior Data Scientist - Personalization & Predictions,Bloomreach,"Czechia,  Slovakia",2026-10-11T06:04:10+00:00,True,True,False,False,False,False
-"Analyst, GTM Analytics",Fivetran,Costa Rica,2026-10-11T05:59:11+00:00,True,True,False,False,False,False
-"Associate Research Scientist, Real World Evidence",Precision Medicine Group,USA,2026-10-11T03:55:16+00:00,True,True,False,False,False,False
-Staff Research Engineer - Interactive Avatars,Synthesia,Europe,2026-10-11T03:55:10+00:00,True,False,False,False,False,False
-Senior Data Scientist,DuckDuckGo,"Austria,  Czechia,  Hungary,  Ireland,  Poland,  Portugal,  Romania,  Slovakia,  Spain,  Switzerland,  UK,  USA",2026-10-10T15:46:47+00:00,True,True,False,False,False,True
+Lead Machine Learning Engineer,Serve Robotics,"Canada,  USA",2026-10-24T03:50:05+00:00,True,False,False,False,False,False
+"Senior Machine Learning Engineer, Ads - Quora",Quora,"Canada,  Ireland,  USA",2026-10-24T03:50:04+00:00,True,False,False,False,False,False
+"Senior Data Analyst, GTM Analytics - US",Luxury Presence,USA,2026-10-24T03:45:25+00:00,True,True,False,False,False,True
+"Data Analyst, Clinical Data Effectiveness",Clover Health,USA,2026-10-24T03:45:06+00:00,True,True,False,False,False,False
+Senior Data Analyst,ShopFully,Italy,2026-10-23T17:54:41+00:00,True,True,False,False,True,True
+"Insights Sector Lead, Emerging Verticals",YipitData,USA,2026-10-23T16:38:25+00:00,False,True,False,False,False,False
+Insights Associate - Retail,YipitData,USA,2026-10-23T16:38:24+00:00,True,True,False,False,False,False
+Senior Data Engineer,Nebius,"Europe,  Israel",2026-10-23T07:09:55+00:00,True,True,False,False,False,False
+Model Validation Senior Manager,Monzo,UK,2026-10-23T07:06:55+00:00,True,False,False,False,False,False
+"Lead Machine Learning Scientist, Search",Monzo,UK,2026-10-23T07:06:54+00:00,True,True,False,False,False,False
+Senior Data Engineer,Socure,USA,2026-10-23T03:50:10+00:00,True,True,True,False,True,False
+Data Analytics Engineer,Ruby Labs,Europe,2026-10-23T03:45:11+00:00,True,True,False,False,False,False
+Clinical Data Team Lead,Thermo Fisher Scientific,Mexico,2026-10-23T03:45:09+00:00,False,False,False,False,False,False
+"Senior Manager, Client Analytics Partner",StackAdapt,UK,2026-10-22T15:48:36+00:00,False,False,False,False,False,True
+"Senior Analyst, GTM, Verticals, and Performance",StackAdapt,UK,2026-10-22T15:48:33+00:00,False,True,False,False,False,False
+Data Analytics & Revenue Reporting Specialist,LevelUp,Philippines,2026-10-22T10:36:02+00:00,False,True,False,False,False,False
+"Lead Machine Learning Scientist, FinCrime",Monzo,UK,2026-10-22T10:32:43+00:00,True,True,False,False,False,False
+"Lead Machine Learning Scientist, Customer Operations",Monzo,UK,2026-10-22T10:32:40+00:00,True,True,False,False,False,False
+Tech Lead Data Engineer,Cloudbeds,"LATAM,  Canada",2026-10-22T09:30:10+00:00,True,True,False,False,False,False
+AWS Data Engineer (Associate),Mactores,USA,2026-10-22T04:40:27+00:00,False,True,True,False,True,False
+Senior Data Analyst,Ruby Labs,Europe,2026-10-22T04:35:08+00:00,True,True,False,False,False,True
+Data Architect,Caylent,Argentina,2026-10-21T18:02:42+00:00,False,False,True,False,False,False
+Senior Product Analyst,Tala,Mexico,2026-10-21T18:02:40+00:00,False,True,False,False,False,False
+"Senior Director, Analytics and Data Science, Core Product & Growth",Life360,"Canada,  USA",2026-10-21T16:10:55+00:00,True,True,False,False,False,True
+"Director, Text-to-Speech Synthesis Research",Deepgram,UK,2026-10-21T09:44:03+00:00,False,False,False,False,False,False
+"Lead Machine Learning Scientist, Business Banking",Monzo,UK,2026-10-21T08:46:35+00:00,True,True,False,False,False,False
+Lead Data Scientist,Monzo,UK,2026-10-21T08:46:35+00:00,False,False,False,False,False,False
+Associate Director of Bioinformatics (Women's Health and Organ Health),Natera,USA,2026-10-21T03:15:43+00:00,True,False,True,False,False,False
+AWS Data Engineer (Senior),Mactores,USA,2026-10-21T03:10:28+00:00,False,True,True,False,False,False
+Member of Technical Staff (Data Intelligence),Reka,"Singapore,  UK,  USA",2026-10-21T02:59:20+00:00,True,False,False,False,True,False
+(765) Data Analyst (Healthcare Fraud),Arlo Solutions,USA,2026-10-20T19:18:51+00:00,True,True,False,False,False,True
+Senior Machine Learning Engineer,SeatGeek,USA,2026-10-20T19:04:07+00:00,True,False,True,False,False,False
+"Manager, Business Analytics & Insights",BetterHelp,USA,2026-10-20T19:01:21+00:00,True,True,False,False,False,True
+Analytics Engineer,Reddit,USA,2026-10-20T15:25:31+00:00,True,True,False,False,True,False
+Lead Data Scientist,Life360,"Canada,  USA",2026-10-20T15:17:01+00:00,True,False,False,False,False,False
+Data Engineer (FedD024),Defense Unicorns,USA,2026-10-20T03:25:18+00:00,False,False,True,True,False,False
+"Marketing Analyst, New Business and M&A",Toptal,"LATAM,  Europe",2026-10-19T16:58:14+00:00,True,True,False,False,False,True
+Machine Learning Engineer,Twilio,Spain,2026-10-19T16:52:54+00:00,True,False,True,True,False,False
+Staff Applied AI Engineer,Doximity,USA,2026-10-19T16:11:21+00:00,True,True,False,False,False,False
+"Sr. Statistician, Client Intelligence",Doximity,USA,2026-10-19T16:11:08+00:00,True,True,False,False,False,False
+Senior Data Scientist,Doximity,"Canada,  USA",2026-10-19T16:11:03+00:00,True,True,False,False,True,False
+"Senior Data Analyst, Supply",SeatGeek,USA,2026-10-19T13:40:27+00:00,True,True,False,False,False,False
+Business Intelligence Analyst (Contractor),Doximity,USA,2026-10-19T12:09:50+00:00,True,True,False,False,False,False
+Research Scientist,Roboflow,USA,2026-10-19T11:45:25+00:00,False,False,False,False,False,False
+Sr. Data Engineer,Carrot,USA,2026-10-19T02:45:19+00:00,True,True,True,False,False,False
+"Financial Data Analyst, Account Management",SmithRx,USA,2026-10-19T02:45:04+00:00,False,False,False,False,False,True
+Senior Revenue Operations Analyst,Instructure,Hungary,2026-10-19T02:40:06+00:00,False,True,False,False,False,True
+Risk Analyst,Flex,USA,2026-10-18T16:18:48+00:00,True,True,False,False,False,False
+"Sr. Manager, Data Science",hims &#038; hers,UK,2026-10-18T12:52:46+00:00,True,True,False,False,False,False
+"Senior Data Scientist, Full Stack (Brazil)",TRM Labs,Brazil,2026-10-18T06:51:45+00:00,True,True,False,False,True,False
