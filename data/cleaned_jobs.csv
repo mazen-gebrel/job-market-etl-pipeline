@@ -1,51 +1,51 @@
 title,company,location,published_date,requires_python,requires_sql,requires_aws,requires_azure,requires_spark,requires_tableau
-Lead Machine Learning Engineer,Serve Robotics,"Canada,  USA",2026-10-24T03:50:05+00:00,True,False,False,False,False,False
-"Senior Machine Learning Engineer, Ads - Quora",Quora,"Canada,  Ireland,  USA",2026-10-24T03:50:04+00:00,True,False,False,False,False,False
-"Senior Data Analyst, GTM Analytics - US",Luxury Presence,USA,2026-10-24T03:45:25+00:00,True,True,False,False,False,True
-"Data Analyst, Clinical Data Effectiveness",Clover Health,USA,2026-10-24T03:45:06+00:00,True,True,False,False,False,False
-Senior Data Analyst,ShopFully,Italy,2026-10-23T17:54:41+00:00,True,True,False,False,True,True
-"Insights Sector Lead, Emerging Verticals",YipitData,USA,2026-10-23T16:38:25+00:00,False,True,False,False,False,False
-Insights Associate - Retail,YipitData,USA,2026-10-23T16:38:24+00:00,True,True,False,False,False,False
-Senior Data Engineer,Nebius,"Europe,  Israel",2026-10-23T07:09:55+00:00,True,True,False,False,False,False
-Model Validation Senior Manager,Monzo,UK,2026-10-23T07:06:55+00:00,True,False,False,False,False,False
-"Lead Machine Learning Scientist, Search",Monzo,UK,2026-10-23T07:06:54+00:00,True,True,False,False,False,False
-Senior Data Engineer,Socure,USA,2026-10-23T03:50:10+00:00,True,True,True,False,True,False
-Data Analytics Engineer,Ruby Labs,Europe,2026-10-23T03:45:11+00:00,True,True,False,False,False,False
-Clinical Data Team Lead,Thermo Fisher Scientific,Mexico,2026-10-23T03:45:09+00:00,False,False,False,False,False,False
-"Senior Manager, Client Analytics Partner",StackAdapt,UK,2026-10-22T15:48:36+00:00,False,False,False,False,False,True
-"Senior Analyst, GTM, Verticals, and Performance",StackAdapt,UK,2026-10-22T15:48:33+00:00,False,True,False,False,False,False
-Data Analytics & Revenue Reporting Specialist,LevelUp,Philippines,2026-10-22T10:36:02+00:00,False,True,False,False,False,False
-"Lead Machine Learning Scientist, FinCrime",Monzo,UK,2026-10-22T10:32:43+00:00,True,True,False,False,False,False
-"Lead Machine Learning Scientist, Customer Operations",Monzo,UK,2026-10-22T10:32:40+00:00,True,True,False,False,False,False
-Tech Lead Data Engineer,Cloudbeds,"LATAM,  Canada",2026-10-22T09:30:10+00:00,True,True,False,False,False,False
-AWS Data Engineer (Associate),Mactores,USA,2026-10-22T04:40:27+00:00,False,True,True,False,True,False
-Senior Data Analyst,Ruby Labs,Europe,2026-10-22T04:35:08+00:00,True,True,False,False,False,True
-Data Architect,Caylent,Argentina,2026-10-21T18:02:42+00:00,False,False,True,False,False,False
-Senior Product Analyst,Tala,Mexico,2026-10-21T18:02:40+00:00,False,True,False,False,False,False
-"Senior Director, Analytics and Data Science, Core Product & Growth",Life360,"Canada,  USA",2026-10-21T16:10:55+00:00,True,True,False,False,False,True
-"Director, Text-to-Speech Synthesis Research",Deepgram,UK,2026-10-21T09:44:03+00:00,False,False,False,False,False,False
-"Lead Machine Learning Scientist, Business Banking",Monzo,UK,2026-10-21T08:46:35+00:00,True,True,False,False,False,False
-Lead Data Scientist,Monzo,UK,2026-10-21T08:46:35+00:00,False,False,False,False,False,False
-Associate Director of Bioinformatics (Women's Health and Organ Health),Natera,USA,2026-10-21T03:15:43+00:00,True,False,True,False,False,False
-AWS Data Engineer (Senior),Mactores,USA,2026-10-21T03:10:28+00:00,False,True,True,False,False,False
-Member of Technical Staff (Data Intelligence),Reka,"Singapore,  UK,  USA",2026-10-21T02:59:20+00:00,True,False,False,False,True,False
-(765) Data Analyst (Healthcare Fraud),Arlo Solutions,USA,2026-10-20T19:18:51+00:00,True,True,False,False,False,True
-Senior Machine Learning Engineer,SeatGeek,USA,2026-10-20T19:04:07+00:00,True,False,True,False,False,False
-"Manager, Business Analytics & Insights",BetterHelp,USA,2026-10-20T19:01:21+00:00,True,True,False,False,False,True
-Analytics Engineer,Reddit,USA,2026-10-20T15:25:31+00:00,True,True,False,False,True,False
-Lead Data Scientist,Life360,"Canada,  USA",2026-10-20T15:17:01+00:00,True,False,False,False,False,False
-Data Engineer (FedD024),Defense Unicorns,USA,2026-10-20T03:25:18+00:00,False,False,True,True,False,False
-"Marketing Analyst, New Business and M&A",Toptal,"LATAM,  Europe",2026-10-19T16:58:14+00:00,True,True,False,False,False,True
-Machine Learning Engineer,Twilio,Spain,2026-10-19T16:52:54+00:00,True,False,True,True,False,False
-Staff Applied AI Engineer,Doximity,USA,2026-10-19T16:11:21+00:00,True,True,False,False,False,False
-"Sr. Statistician, Client Intelligence",Doximity,USA,2026-10-19T16:11:08+00:00,True,True,False,False,False,False
-Senior Data Scientist,Doximity,"Canada,  USA",2026-10-19T16:11:03+00:00,True,True,False,False,True,False
-"Senior Data Analyst, Supply",SeatGeek,USA,2026-10-19T13:40:27+00:00,True,True,False,False,False,False
-Business Intelligence Analyst (Contractor),Doximity,USA,2026-10-19T12:09:50+00:00,True,True,False,False,False,False
-Research Scientist,Roboflow,USA,2026-10-19T11:45:25+00:00,False,False,False,False,False,False
-Sr. Data Engineer,Carrot,USA,2026-10-19T02:45:19+00:00,True,True,True,False,False,False
-"Financial Data Analyst, Account Management",SmithRx,USA,2026-10-19T02:45:04+00:00,False,False,False,False,False,True
-Senior Revenue Operations Analyst,Instructure,Hungary,2026-10-19T02:40:06+00:00,False,True,False,False,False,True
-Risk Analyst,Flex,USA,2026-10-18T16:18:48+00:00,True,True,False,False,False,False
-"Sr. Manager, Data Science",hims &#038; hers,UK,2026-10-18T12:52:46+00:00,True,True,False,False,False,False
-"Senior Data Scientist, Full Stack (Brazil)",TRM Labs,Brazil,2026-10-18T06:51:45+00:00,True,True,False,False,True,False
+AI Trainers Network - English,Welo Global,"Australia,  Canada,  Ireland,  Malaysia,  New Zealand,  Singapore,  UK,  USA",2026-10-31T10:57:36+00:00,False,False,False,False,False,False
+AI Data Quality Specialist - English (Philippines),Welo Global,Philippines,2026-10-31T10:57:31+00:00,False,False,False,False,False,False
+Data Analytics Manager,Ashby,"Canada,  USA",2026-10-31T10:10:19+00:00,False,True,False,False,False,False
+Sr. Revenue Operations Analyst,Instructure,USA,2026-10-31T10:09:45+00:00,False,True,False,False,False,True
+Senior Data Intelligence Engineer,Deepgram,USA,2026-10-31T09:30:24+00:00,True,True,False,False,False,False
+AI Trainers Network - Danish,Welo Global,"Denmark,  France,  Germany,  Spain,  Sweden,  UK,  USA",2026-10-31T09:11:52+00:00,False,False,False,False,False,False
+AI Trainers Network - Czech,Welo Global,"Czechia,  Slovakia",2026-10-31T09:11:33+00:00,False,False,False,False,False,False
+AI Trainers Network - Croatian Talent Hub,Welo Global,"Croatia,  Serbia,  USA",2026-10-31T09:11:25+00:00,False,False,False,False,False,False
+"Director I, Data Science, Enterprise Data & Data Science",Liberty Mutual,USA,2026-10-31T03:35:33+00:00,False,False,False,False,False,False
+"Data Scientist, Analytics (Technical Leadership)",Meta,USA,2026-10-31T03:35:17+00:00,True,True,False,False,False,False
+"Principal Analyst, Data Integration",H1,USA,2026-10-31T03:30:19+00:00,False,True,True,False,False,False
+Marketing Analytics Director | United States | Remote,Grafana Labs,USA,2026-10-30T18:07:17+00:00,True,True,False,False,False,True
+"Senior Data Engineer - Data Infra (Ontario, Canada)",Dandy,Canada,2026-10-30T18:06:29+00:00,True,True,False,False,False,False
+Sr. Data Engineer,PadSplit,USA,2026-10-30T18:06:22+00:00,True,True,True,False,False,False
+Senior Data Product Analyst,YipitData,USA,2026-10-30T16:26:51+00:00,False,True,False,False,False,False
+AI Trainers Network - Chinese (Simplified),Welo Global,"Canada,  China,  Malaysia,  USA",2026-10-30T12:37:50+00:00,False,False,False,False,False,False
+AI Trainers Network - Cebuano,Welo Global,"Europe,  Philippines",2026-10-30T08:21:20+00:00,False,False,False,False,False,False
+AI Trainers Network - Catalan,Welo Global,"Italy,  Spain",2026-10-30T08:21:15+00:00,False,False,False,False,False,False
+AI Trainers Network - Cantonese,Welo Global,"China,  Hong Kong,  Malaysia",2026-10-30T08:21:11+00:00,False,False,False,False,False,False
+AI Trainers Network - Canadian French,Welo Global,Canada,2026-10-30T08:20:44+00:00,False,False,False,False,False,False
+AI Trainers Network - Burmese,Welo Global,"Malaysia,  Thailand",2026-10-30T08:20:38+00:00,False,False,False,False,False,False
+AI Trainers Network - Bulgarian,Welo Global,"Bulgaria,  Czechia,  Türkiye",2026-10-30T08:20:31+00:00,False,False,False,False,False,False
+AI Trainers Network - Bosnian,Welo Global,Europe,2026-10-30T08:20:02+00:00,False,False,False,False,False,False
+AI Trainers Network - Belarusian,Welo Global,Europe,2026-10-30T08:19:56+00:00,False,False,False,False,False,False
+FDE Data Engineer- Space (FedD141/FedD147),Defense Unicorns,USA,2026-10-30T03:30:27+00:00,False,True,True,True,True,False
+Analytics Engineer,Alma,France,2026-10-30T03:30:21+00:00,True,False,False,False,False,False
+Manager/ Sr. Manager - BI Consulting (Life Sciences/Pharma),Tiger Analytics,Canada,2026-10-30T03:25:05+00:00,True,True,False,False,False,False
+Sr. Director of Machine Learning,hims &#038; hers,USA,2026-10-29T16:32:22+00:00,False,False,False,False,False,False
+Data Engineer,Branch,USA,2026-10-29T16:32:13+00:00,True,True,False,False,False,False
+Sr. Data Scientist,hims &#038; hers,USA,2026-10-29T16:32:09+00:00,True,True,True,False,False,False
+Principal Machine Learning Engineer,Ping Identity,Israel,2026-10-29T16:28:30+00:00,True,True,True,False,True,False
+Principal Data Engineer,hims &#038; hers,USA,2026-10-29T15:40:55+00:00,True,True,True,False,True,False
+"Staff Analyst, AI Product",hims &#038; hers,USA,2026-10-29T15:40:29+00:00,True,True,False,False,False,True
+"Sr. Manager, Category Strategy & Analysis",hims &#038; hers,USA,2026-10-29T15:40:16+00:00,False,False,False,False,False,False
+"Research Staff, LLMs",Deepgram,USA,2026-10-29T15:40:14+00:00,True,False,False,False,False,False
+"Staff Analyst, Product & Marketing",hims &#038; hers,USA,2026-10-29T08:44:13+00:00,True,True,False,False,False,True
+AI Trainers Network - Basque,Welo Global,Spain,2026-10-29T08:05:22+00:00,False,False,False,False,False,False
+AI Trainers Network - Amharic,Welo Global,Europe,2026-10-29T08:05:17+00:00,False,False,False,False,False,False
+Senior Data Analyst (MedTech),YipitData,USA,2026-10-29T05:48:09+00:00,False,False,False,False,False,False
+Senior Data Analyst,YipitData,USA,2026-10-29T05:47:48+00:00,True,True,False,False,True,False
+Solutions Architect - Public Sector (SLED),Databricks,USA,2026-10-29T05:47:23+00:00,True,True,True,True,True,False
+"Solutions Architect - Digital Native Business, Named Accounts",Databricks,USA,2026-10-29T05:46:47+00:00,True,True,True,True,True,False
+Product Development Associate (US),YipitData,USA,2026-10-29T05:46:36+00:00,False,True,False,False,False,False
+Business Intelligence Data Architect,Contentstack,"Netherlands,  Portugal",2026-10-29T04:03:58+00:00,True,True,False,False,False,True
+"Senior Data Scientist, Product",RevenueCat,"EMEA,  LATAM,  Canada,  USA",2026-10-29T04:03:57+00:00,True,True,True,False,False,False
+"Principal, Product Analytics",Synthesia,Europe,2026-10-29T04:03:48+00:00,False,False,False,False,False,False
+Binance Accelerator Program - Data Scientist (User Growth),Binance,Singapore,2026-10-29T03:56:57+00:00,True,True,False,False,True,False
+Binance Accelerator Program - Data Scientist (Recommendation/Square Community),Binance,Singapore,2026-10-29T03:56:33+00:00,True,True,False,False,False,False
+Binance Accelerator Program - Data Scientist (LLM & Trading),Binance,Singapore,2026-10-29T03:56:31+00:00,False,False,False,False,False,False
+"Data Scientist, Risk",Imprint,USA,2026-10-29T03:20:20+00:00,True,True,True,False,False,False
