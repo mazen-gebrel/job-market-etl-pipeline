@@ -1,51 +1,51 @@
 title,company,location,published_date,requires_python,requires_sql,requires_aws,requires_azure,requires_spark,requires_tableau
-AI Trainers Network - English,Welo Global,"Australia,  Canada,  Ireland,  Malaysia,  New Zealand,  Singapore,  UK,  USA",2026-10-31T10:57:36+00:00,False,False,False,False,False,False
-AI Data Quality Specialist - English (Philippines),Welo Global,Philippines,2026-10-31T10:57:31+00:00,False,False,False,False,False,False
-Data Analytics Manager,Ashby,"Canada,  USA",2026-10-31T10:10:19+00:00,False,True,False,False,False,False
-Sr. Revenue Operations Analyst,Instructure,USA,2026-10-31T10:09:45+00:00,False,True,False,False,False,True
-Senior Data Intelligence Engineer,Deepgram,USA,2026-10-31T09:30:24+00:00,True,True,False,False,False,False
-AI Trainers Network - Danish,Welo Global,"Denmark,  France,  Germany,  Spain,  Sweden,  UK,  USA",2026-10-31T09:11:52+00:00,False,False,False,False,False,False
-AI Trainers Network - Czech,Welo Global,"Czechia,  Slovakia",2026-10-31T09:11:33+00:00,False,False,False,False,False,False
-AI Trainers Network - Croatian Talent Hub,Welo Global,"Croatia,  Serbia,  USA",2026-10-31T09:11:25+00:00,False,False,False,False,False,False
-"Director I, Data Science, Enterprise Data & Data Science",Liberty Mutual,USA,2026-10-31T03:35:33+00:00,False,False,False,False,False,False
-"Data Scientist, Analytics (Technical Leadership)",Meta,USA,2026-10-31T03:35:17+00:00,True,True,False,False,False,False
-"Principal Analyst, Data Integration",H1,USA,2026-10-31T03:30:19+00:00,False,True,True,False,False,False
-Marketing Analytics Director | United States | Remote,Grafana Labs,USA,2026-10-30T18:07:17+00:00,True,True,False,False,False,True
-"Senior Data Engineer - Data Infra (Ontario, Canada)",Dandy,Canada,2026-10-30T18:06:29+00:00,True,True,False,False,False,False
-Sr. Data Engineer,PadSplit,USA,2026-10-30T18:06:22+00:00,True,True,True,False,False,False
-Senior Data Product Analyst,YipitData,USA,2026-10-30T16:26:51+00:00,False,True,False,False,False,False
-AI Trainers Network - Chinese (Simplified),Welo Global,"Canada,  China,  Malaysia,  USA",2026-10-30T12:37:50+00:00,False,False,False,False,False,False
-AI Trainers Network - Cebuano,Welo Global,"Europe,  Philippines",2026-10-30T08:21:20+00:00,False,False,False,False,False,False
-AI Trainers Network - Catalan,Welo Global,"Italy,  Spain",2026-10-30T08:21:15+00:00,False,False,False,False,False,False
-AI Trainers Network - Cantonese,Welo Global,"China,  Hong Kong,  Malaysia",2026-10-30T08:21:11+00:00,False,False,False,False,False,False
-AI Trainers Network - Canadian French,Welo Global,Canada,2026-10-30T08:20:44+00:00,False,False,False,False,False,False
-AI Trainers Network - Burmese,Welo Global,"Malaysia,  Thailand",2026-10-30T08:20:38+00:00,False,False,False,False,False,False
-AI Trainers Network - Bulgarian,Welo Global,"Bulgaria,  Czechia,  Türkiye",2026-10-30T08:20:31+00:00,False,False,False,False,False,False
-AI Trainers Network - Bosnian,Welo Global,Europe,2026-10-30T08:20:02+00:00,False,False,False,False,False,False
-AI Trainers Network - Belarusian,Welo Global,Europe,2026-10-30T08:19:56+00:00,False,False,False,False,False,False
-FDE Data Engineer- Space (FedD141/FedD147),Defense Unicorns,USA,2026-10-30T03:30:27+00:00,False,True,True,True,True,False
-Analytics Engineer,Alma,France,2026-10-30T03:30:21+00:00,True,False,False,False,False,False
-Manager/ Sr. Manager - BI Consulting (Life Sciences/Pharma),Tiger Analytics,Canada,2026-10-30T03:25:05+00:00,True,True,False,False,False,False
-Sr. Director of Machine Learning,hims &#038; hers,USA,2026-10-29T16:32:22+00:00,False,False,False,False,False,False
-Data Engineer,Branch,USA,2026-10-29T16:32:13+00:00,True,True,False,False,False,False
-Sr. Data Scientist,hims &#038; hers,USA,2026-10-29T16:32:09+00:00,True,True,True,False,False,False
-Principal Machine Learning Engineer,Ping Identity,Israel,2026-10-29T16:28:30+00:00,True,True,True,False,True,False
-Principal Data Engineer,hims &#038; hers,USA,2026-10-29T15:40:55+00:00,True,True,True,False,True,False
-"Staff Analyst, AI Product",hims &#038; hers,USA,2026-10-29T15:40:29+00:00,True,True,False,False,False,True
-"Sr. Manager, Category Strategy & Analysis",hims &#038; hers,USA,2026-10-29T15:40:16+00:00,False,False,False,False,False,False
-"Research Staff, LLMs",Deepgram,USA,2026-10-29T15:40:14+00:00,True,False,False,False,False,False
-"Staff Analyst, Product & Marketing",hims &#038; hers,USA,2026-10-29T08:44:13+00:00,True,True,False,False,False,True
-AI Trainers Network - Basque,Welo Global,Spain,2026-10-29T08:05:22+00:00,False,False,False,False,False,False
-AI Trainers Network - Amharic,Welo Global,Europe,2026-10-29T08:05:17+00:00,False,False,False,False,False,False
-Senior Data Analyst (MedTech),YipitData,USA,2026-10-29T05:48:09+00:00,False,False,False,False,False,False
-Senior Data Analyst,YipitData,USA,2026-10-29T05:47:48+00:00,True,True,False,False,True,False
-Solutions Architect - Public Sector (SLED),Databricks,USA,2026-10-29T05:47:23+00:00,True,True,True,True,True,False
-"Solutions Architect - Digital Native Business, Named Accounts",Databricks,USA,2026-10-29T05:46:47+00:00,True,True,True,True,True,False
-Product Development Associate (US),YipitData,USA,2026-10-29T05:46:36+00:00,False,True,False,False,False,False
-Business Intelligence Data Architect,Contentstack,"Netherlands,  Portugal",2026-10-29T04:03:58+00:00,True,True,False,False,False,True
-"Senior Data Scientist, Product",RevenueCat,"EMEA,  LATAM,  Canada,  USA",2026-10-29T04:03:57+00:00,True,True,True,False,False,False
-"Principal, Product Analytics",Synthesia,Europe,2026-10-29T04:03:48+00:00,False,False,False,False,False,False
-Binance Accelerator Program - Data Scientist (User Growth),Binance,Singapore,2026-10-29T03:56:57+00:00,True,True,False,False,True,False
-Binance Accelerator Program - Data Scientist (Recommendation/Square Community),Binance,Singapore,2026-10-29T03:56:33+00:00,True,True,False,False,False,False
-Binance Accelerator Program - Data Scientist (LLM & Trading),Binance,Singapore,2026-10-29T03:56:31+00:00,False,False,False,False,False,False
-"Data Scientist, Risk",Imprint,USA,2026-10-29T03:20:20+00:00,True,True,True,False,False,False
+Marketing Analytics Manager,impact.com,USA,2026-11-07T10:54:04+00:00,True,True,False,False,False,False
+Lead Data Engineer,Oddball,USA,2026-11-07T06:08:03+00:00,True,True,False,True,True,False
+"Staff Data Scientist - Ads Measurement, Signals, Privacy",Reddit,Canada,2026-11-07T03:05:05+00:00,True,True,False,False,False,False
+3D & LiDAR Data Annotation Analyst,Appen,USA,2026-11-06T17:05:15+00:00,False,False,False,False,False,False
+Staff Data Scientist,hims &#038; hers,USA,2026-11-06T15:59:52+00:00,True,True,True,False,False,False
+Senior Product Analyst / Data Scientist,Nebius,Europe,2026-11-06T14:06:45+00:00,True,True,False,False,False,False
+Artemis AI Data Rater - Swedish,Welo Global,Bulgaria,2026-11-06T14:05:44+00:00,False,False,False,False,False,False
+Artemis AI Data Rater - Polish,Welo Global,Poland,2026-11-06T14:05:36+00:00,False,False,False,False,False,False
+"Data Director, Growth and Marketing",Monzo,UK,2026-11-06T14:04:57+00:00,False,False,False,False,False,False
+Data Scientist,Solace,USA,2026-11-06T06:17:17+00:00,True,True,False,False,False,False
+Commercial Data Scientist,Doximity,USA,2026-11-06T03:20:12+00:00,True,True,False,False,False,False
+Director of Strategy & Analytics,Beyond Finance,USA,2026-11-06T03:10:10+00:00,False,True,False,False,False,False
+Brazilian Subject Matter Expert in Religion or Philosophy,Welo Global,Anywhere,2026-11-05T04:54:04+00:00,False,False,False,False,False,False
+Brazilian Subject Matter Expert in History,Welo Global,Anywhere,2026-11-05T04:54:01+00:00,False,False,False,False,False,False
+"Principal Data Scientist, Ads",Reddit,USA,2026-11-05T04:47:17+00:00,True,True,False,False,False,False
+"Machine Learning Manager, Feed Relevance (Retrieval)",Reddit,USA,2026-11-05T04:46:48+00:00,False,False,False,False,False,False
+"Director, Decision Science",Instructure,USA,2026-11-05T04:45:37+00:00,True,True,False,False,True,False
+Sr. Strategic Insights Manager,H1,USA,2026-11-05T04:42:47+00:00,False,False,False,False,False,False
+Marketing Data Scientist,Vonage,Mexico,2026-11-05T03:10:10+00:00,True,True,True,True,False,True
+Staff Machine Learning Engineer,Bayesian Health,USA,2026-11-05T03:05:12+00:00,True,True,True,False,False,False
+Federal Enterprise Solution Architect,Collibra,USA,2026-11-04T17:26:28+00:00,True,False,True,True,True,False
+Principal Data Architect,Caylent,Brazil,2026-11-04T13:24:58+00:00,True,False,True,False,True,False
+Audio Recording Project - Cantonese (Hong Kong),Welo Global,Hong Kong,2026-11-04T12:33:17+00:00,False,False,False,False,False,False
+AI Trainers Network - English (Unites States),Welo Global,USA,2026-11-04T12:33:06+00:00,False,False,False,False,False,False
+AI Trainers Network - English (Canada),Welo Global,Canada,2026-11-04T12:32:32+00:00,False,False,False,False,False,False
+AI Research Engineer,dscout,USA,2026-11-04T12:32:05+00:00,True,False,False,False,False,False
+AI Data Annotator - French (Canada),Welo Global,Canada,2026-11-04T12:31:55+00:00,False,False,False,False,False,False
+Lead Engineer - AI Agent Voice Experience,Cresta,USA,2026-11-03T19:56:30+00:00,False,False,False,False,False,False
+AI Trainers Network - Welsh,Welo Global,Anywhere,2026-11-03T17:31:28+00:00,False,False,False,False,False,False
+AI Trainers Network - Vietnamese,Welo Global,Anywhere,2026-11-03T17:31:27+00:00,False,False,False,False,False,False
+AI Trainers Network - Uzbek,Welo Global,Anywhere,2026-11-03T17:31:25+00:00,False,False,False,False,False,False
+AI Trainers Network - Ukrainian,Welo Global,Anywhere,2026-11-03T17:31:24+00:00,False,False,False,False,False,False
+AI Trainers Network - Twi,Welo Global,Anywhere,2026-11-03T17:31:22+00:00,False,False,False,False,False,False
+AI Trainers Network - Turkish,Welo Global,Anywhere,2026-11-03T17:31:21+00:00,False,False,False,False,False,False
+AI Trainers Network - Thai,Welo Global,Anywhere,2026-11-03T17:31:19+00:00,False,False,False,False,False,False
+AI Trainers Network - Tagalog,Welo Global,Anywhere,2026-11-03T17:31:17+00:00,False,False,False,False,False,False
+AI Trainers Network - Swedish,Welo Global,Anywhere,2026-11-03T17:31:16+00:00,False,False,False,False,False,False
+AI Trainers Network - Swahili,Welo Global,Anywhere,2026-11-03T17:31:14+00:00,False,False,False,False,False,False
+AI Trainers Network - Southeast Asia Talent Hub (Ex-Singapore Residents),Welo Global,Anywhere,2026-11-03T17:30:49+00:00,False,False,False,False,False,False
+AI Trainers Network - Somali,Welo Global,Anywhere,2026-11-03T17:30:48+00:00,False,False,False,False,False,False
+AI Trainers Network - Slovenian,Welo Global,Anywhere,2026-11-03T17:30:46+00:00,False,False,False,False,False,False
+AI Trainers Network - Slovak,Welo Global,Anywhere,2026-11-03T17:30:45+00:00,False,False,False,False,False,False
+AI Trainers Network - Serbian,Welo Global,Anywhere,2026-11-03T17:30:43+00:00,False,False,False,False,False,False
+AI Trainers Network - Romanian,Welo Global,Anywhere,2026-11-03T17:30:41+00:00,False,False,False,False,False,False
+AI Trainers Network - Portuguese,Welo Global,Anywhere,2026-11-03T17:30:40+00:00,False,False,False,False,False,False
+AI Trainers Network - Polish,Welo Global,Anywhere,2026-11-03T17:30:38+00:00,False,False,False,False,False,False
+AI Trainers Network - Persian,Welo Global,Anywhere,2026-11-03T17:30:36+00:00,False,False,False,False,False,False
+AI Trainers Network - Norwegian,Welo Global,Anywhere,2026-11-03T17:30:35+00:00,False,False,False,False,False,False
+AI Trainers Network - Mongolian,Welo Global,Anywhere,2026-11-03T17:30:10+00:00,False,False,False,False,False,False
+AI Trainers Network - Maori,Welo Global,Anywhere,2026-11-03T17:30:08+00:00,False,False,False,False,False,False
